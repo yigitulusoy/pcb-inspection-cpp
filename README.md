@@ -1,1 +1,1 @@
-# pcb-inspection-cpp
+# yigit-proje
